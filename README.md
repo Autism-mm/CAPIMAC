@@ -1,0 +1,2 @@
+# CAPIMAC
+ijcai2025
